@@ -1,4 +1,4 @@
-# Parallel_GD_Python_multiprocessing
+# Asynchronous_Parallel_GD_Python_using_multiprocessing
 This basic code illustrate the use of 'Process' Class to parallelize the gradient descent algorithm. 
 The logistic regression algorithm is used to investigate the gradient descent.
 Parallel and sequential implementation are coded. 
